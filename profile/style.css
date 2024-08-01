@@ -1,0 +1,166 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: hsl(0, 0%, 8%);
+}
+
+.container {
+    width: 310px;
+    height: 530px;
+    margin: 60px auto;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 10px;
+}
+
+img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: 35px 115px;
+}
+
+h3 {
+    position: relative;
+    bottom: 15px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    background: none;
+}
+
+h5 {
+    position: relative;
+    bottom: 8px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12px;
+    text-align: center;
+    color: hsl(75, 94%, 57%);
+    background: none;
+}
+
+q {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    background: none;
+    text-align: center;
+    display: block;
+}
+
+.github {
+    width: 250px;
+    height: 40px;
+    background-color: hsl(0, 0%, 20%);
+    margin: 15px 30px;
+    color: hsl(0, 0%, 100%);
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.github:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
+
+.mentor {
+    width: 250px;
+    height: 40px;
+    background-color: hsl(0, 0%, 20%);
+    margin: 0 30px;
+    color: hsl(0, 0%, 100%);
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.mentor:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
+
+.linkedin {
+    width: 250px;
+    height: 40px;
+    background-color: hsl(0, 0%, 20%);
+    margin: 15px 30px;
+    color: hsl(0, 0%, 100%);
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.linkedin:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
+
+.twitter {
+    width: 250px;
+    height: 40px;
+    background-color: hsl(0, 0%, 20%);
+    margin: 0 30px;
+    color: hsl(0, 0%, 100%);
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.twitter:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
+
+.instagram {
+    width: 250px;
+    height: 40px;
+    background-color: hsl(0, 0%, 20%);
+    margin: 15px 30px;
+    color: hsl(0, 0%, 100%);
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.instagram:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
